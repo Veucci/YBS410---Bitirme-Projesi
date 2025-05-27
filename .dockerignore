@@ -1,0 +1,43 @@
+# Git
+.git
+.gitignore
+.github
+
+# Node
+frontend/node_modules
+frontend/.next
+frontend/.env
+frontend/.env.*
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Python
+backend/__pycache__
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/.Python
+backend/env
+backend/.env
+backend/venv
+backend/.venv
+backend/pip-log.txt
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+*.swn
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/ai/images/*
+!backend/ai/images/.gitkeep
