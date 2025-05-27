@@ -45,3 +45,4 @@ next-env.d.ts
 __pycache__
 backend/ai/images/*
 !backend/ai/images/.gitkeep
+*.pdf

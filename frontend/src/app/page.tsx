@@ -176,10 +176,10 @@ export default function Home() {
         <div className="flex items-center justify-between mb-8">
           <div className="space-y-1">
             <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              Gelişmiş Yapısal Analiz Sistemi
+              Beton Çatlaklarının Tespiti ve Dayanıklılık Değerlendirmesi
             </h1>
             <p className="text-muted-foreground">
-              640x640 Tile İşleme | Dayanıklılık Analizi | Matematiksel Hesaplamalar
+              640x640 Tile İşleme | Dayanıklılık Analizi | Çatlak Tespiti
             </p>
           </div>
 
@@ -554,7 +554,7 @@ export default function Home() {
               <div className="space-y-1">
                 <h3 className="text-xl font-bold">Efe Hüseyin ÖZKAN</h3>
                 <p className="text-sm text-muted-foreground">
-                  YBS410 - Bitirme Projesi | Gelişmiş Yapısal Analiz Sistemi v2.0
+                  YBS410 - Bitirme Projesi | Beton Çatlaklarının Tespiti ve Dayanıklılık Değerlendirmesi
                 </p>
               </div>
               <div className="text-right space-y-1">
@@ -562,7 +562,7 @@ export default function Home() {
                 <div className="flex gap-2">
                   <Badge variant="outline">640x640 Tile İşleme</Badge>
                   <Badge variant="outline">Dayanıklılık Analizi</Badge>
-                  <Badge variant="outline">Matematiksel Hesaplamalar</Badge>
+                  <Badge variant="outline">Çatlak Tespiti</Badge>
                 </div>
               </div>
             </div>

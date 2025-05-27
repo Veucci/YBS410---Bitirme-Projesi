@@ -41,3 +41,4 @@ backend/uploads/*
 !backend/uploads/.gitkeep
 backend/ai/images/*
 !backend/ai/images/.gitkeep
+*.pdf
